@@ -10,9 +10,10 @@ A few resources to get you started if this is your first Flutter project:
 
 ### 4. User Interface
 
+![Screenshot_1689780007](https://github.com/MOHAMMED-SABITH-C/money_management/assets/128989395/ad2f8f4a-4028-4fc2-9a31-2046ad446e50)
 
 
-<img src="https://github.com/MOHAMMED-SABITH-C/money_management/assets/128989395/59e9bf3d-6311-476a-94de-8168458cdd8b).png"  width =" 330"> <img src="https://user-images.githubusercontent.com/128989395/229332825-ac663ee7-3ccd-466e-979d-e7a155bbcb08.png"  width =" 330">
+<img src="https://github.com/MOHAMMED-SABITH-C/money_management/assets/128989395/59e9bf3d-6311-476a-94de-8168458cdd8b).png"  width =" 330"> <img src="https://github.com/MOHAMMED-SABITH-C/money_management/assets/128989395/ad2f8f4a-4028-4fc2-9a31-2046ad446e50.png"  width =" 330">
 <img src="https://user-images.githubusercontent.com/128989395/229332851-863077db-59eb-4dd5-bacd-11e92c0e6e9e.png"  width =" 330"> <img src="https://user-images.githubusercontent.com/128989395/229332862-cd2f2f1b-9039-4ff5-9188-dac8416c1c10.png"  width =" 330">
 <img src="https://user-images.githubusercontent.com/128989395/229332862-cd2f2f1b-9039-4ff5-9188-dac8416c1c10.png"  width =" 330">
 <img src="https://user-images.githubusercontent.com/128989395/229332865-4f964b19-49d3-4be4-9b17-44b99328959b.png"  width =" 330">
