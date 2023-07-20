@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-### 4. User Interface
+### . User Interface
 
 
 <img src="https://github.com/MOHAMMED-SABITH-C/money_management/assets/128989395/6d5a318c-df3d-4423-9cb9-0f1263eea9e4.png"  width =" 400">      <img src="https://github.com/MOHAMMED-SABITH-C/money_management/assets/128989395/59e9bf3d-6311-476a-94de-8168458cdd8b).png"  width =" 400">
